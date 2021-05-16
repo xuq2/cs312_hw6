@@ -2,6 +2,13 @@
 #### ONDI: xuq2
 #### Date: 5/16/2021
 
+#### Files: 
+- hosts.ini
+- index.html
+- webserver.yaml 
+- hw6auto.sh
+- instruction_manual.md
+
 **My Prerequisite:**
 (You will need to observe your ip address. Modify them in files, if these are different from mine.)
 1. Controller ip address: <em style="color:red">192.168.1.102</em>
