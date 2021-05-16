@@ -48,7 +48,7 @@ Then, you will have the following output:
 Got the results!!!
 ![image](/images/res3.png)
 
-☕️Give my any extra points if you think this instruction is good :D
+☕️Give me any extra points if you think this instruction is good :D
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <h4 style="color:skyblue">More instructions for myself:</h4>
