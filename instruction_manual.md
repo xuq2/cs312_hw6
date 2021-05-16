@@ -19,7 +19,7 @@
 1. Open your router (pfsense), make sure it is ready. ![image](/imgaes/router.png)
 2. Open your controller (One alpine VM); your hosts/nodes (Two alpine VMs).
  ![image](/imgaes/host.png)![image](/imgaes/host2.png)
-3. Download my files into your controller by 
+3. Download my files into your controller by the command `curl `
 
 
 
