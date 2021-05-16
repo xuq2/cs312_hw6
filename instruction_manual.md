@@ -16,9 +16,12 @@
 3. Host 2 ip address: <em style="color:red">192.168.1.103</em>
 
 **Instructions**: 
-1. 
+1. Open your router (pfsense), make sure it is ready. ![image](/imgaes/router.png)
+2. Open your controller (One alpine VM); your hosts/nodes (Two alpine VMs).
+ ![image](/imgaes/host.png)![image](/imgaes/host2.png)
+3. Download my files into your controller by 
 
-![image info](/test.png)
+
 
 ////////////////////////////////////////////////////////////////////////////////////////
 <h4 style="color:skyblue">More instructions for myself:</h4>
