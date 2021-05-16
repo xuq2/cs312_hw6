@@ -1,5 +1,5 @@
 # Name: Qi Xu
-#### ONDI: xuq2
+#### ONID: xuq2
 #### Date: 5/16/2021
 
 #### Files:
@@ -72,3 +72,6 @@ Got the results!!!
 **Then ping:**
 `ansible hw6nodes -i ./hosts.ini -m ping`
 > **Ansible playbook**
+- Running ansible playbook `ansible-playbook webserver.yaml -i hosts.ini`, playbook use YAML grammar.
+- Detailes:
+![others](/images/others.png)
